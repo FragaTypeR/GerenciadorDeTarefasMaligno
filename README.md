@@ -129,9 +129,9 @@ mostrar tela branca na abertura. Se isso ocorrer, adicione dentro da tag
 
 ## Capturas de tela
 
-| Login | Cadastro | Início | Autenticação
-|---|---|---|
-| ![Login](docs/screenshots/01-login.png) | ![Cadastro](docs/screenshots/02-cadastro.png) | ![Início](docs/screenshots/03-inicio.png) | ![Autenticação](docs/screenshots/10-Authentication.png)
+| Login | Cadastro | Início | Autenticação |
+|---|---|---|---|
+| ![Login](docs/screenshots/01-login.png) | ![Cadastro](docs/screenshots/02-cadastro.png) | ![Início](docs/screenshots/03-inicio.png) | ![Autenticação](docs/screenshots/10-autenticacao.png)
 
 | Menu lateral | Minhas tarefas | Nova tarefa |
 |---|---|---|
