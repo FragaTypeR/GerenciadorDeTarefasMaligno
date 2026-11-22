@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "894108563956",
+    "firebase_url": "https://gerenciador-de-tarefas-maligno-default-rtdb.firebaseio.com",
+    "project_id": "gerenciador-de-tarefas-maligno",
+    "storage_bucket": "gerenciador-de-tarefas-maligno.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894108563956:android:95e79f061760a40202e1a1",
+        "android_client_info": {
+          "package_name": "com.example.gerenciador_tarefas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbgB1W4JAvFKa1GFRWdAiwSrIXpklFEXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
