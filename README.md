@@ -60,7 +60,7 @@ lib/
 
 ```
 git clone <URL-DO-REPOSITORIO>
-cd gerenciador_tarefas
+cd GerenciadorDeTarefasMaligno
 flutter pub get
 ```
 
@@ -140,6 +140,14 @@ mostrar tela branca na abertura. Se isso ocorrer, adicione dentro da tag
 | Detalhes | Configurações (tema escuro) | Realtime Database |
 |---|---|---|
 | ![Detalhes](docs/screenshots/07-detalhes.png) | ![Tema escuro](docs/screenshots/08-tema-escuro.png) | ![Banco](docs/screenshots/09-realtime-database.png) |
+
+| Execução do app |
+
+docs/video/aplciativo.mp4
+
+| Dados cadastrados |
+
+docs/video/banco_firebase.mp4
 
 ## Regras de segurança do banco
 
