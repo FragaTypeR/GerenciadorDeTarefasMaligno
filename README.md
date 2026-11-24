@@ -141,11 +141,13 @@ mostrar tela branca na abertura. Se isso ocorrer, adicione dentro da tag
 |---|---|---|
 | ![Detalhes](docs/screenshots/07-detalhes.png) | ![Tema escuro](docs/screenshots/08-tema-escuro.png) | ![Banco](docs/screenshots/09-realtime-database.png) |
 
-| Execução do app |
+## Vídeos de demonstração
 
-docs/video/aplciativo.mp4
+### Funcionamento do aplicativo
+[▶ Assistir ao vídeo](docs/videos/funcionamento.mp4)
 
-| Dados cadastrados |
+### Dados salvos no Firebase
+[▶ Assistir ao vídeo](docs/videos/dados-salvos.mp4)
 
 docs/video/banco_firebase.mp4
 
