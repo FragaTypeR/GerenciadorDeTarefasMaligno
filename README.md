@@ -131,7 +131,7 @@ mostrar tela branca na abertura. Se isso ocorrer, adicione dentro da tag
 
 | Login | Cadastro | Início | Autenticação |
 |---|---|---|---|
-| ![Login](docs/screenshots/01-login.png) | ![Cadastro](docs/screenshots/02-cadastro.png) | ![Início](docs/screenshots/03-inicio.png) | ![Autenticação](docs/screenshots/10-autenticacao.png)
+| ![Login](docs/screenshots/01-login.png) | ![Cadastro](docs/screenshots/02-cadastro.png) | ![Início](docs/screenshots/03-inicio.png) | ![Autenticação](docs/screenshots/10-autenticacao.png) |
 
 | Menu lateral | Minhas tarefas | Nova tarefa |
 |---|---|---|
@@ -144,12 +144,10 @@ mostrar tela branca na abertura. Se isso ocorrer, adicione dentro da tag
 ## Vídeos de demonstração
 
 ### Funcionamento do aplicativo
-[▶ Assistir ao vídeo](docs/videos/funcionamento.mp4)
+[▶ Assistir ao vídeo](docs/video/funcionamento.mp4)
 
 ### Dados salvos no Firebase
-[▶ Assistir ao vídeo](docs/videos/dados-salvos.mp4)
-
-docs/video/banco_firebase.mp4
+[▶ Assistir ao vídeo](docs/video/dados-salvos.mp4)
 
 ## Regras de segurança do banco
 
