@@ -144,10 +144,10 @@ mostrar tela branca na abertura. Se isso ocorrer, adicione dentro da tag
 ## Vídeos de demonstração
 
 ### Funcionamento do aplicativo
-[▶ Assistir ao vídeo](docs/video/aplicacao.mp4)
+[▶ Assistir ao vídeo](https://youtu.be/GTHRxwgq6d8)
 
 ### Dados salvos no Firebase
-[▶ Assistir ao vídeo](docs/video/banco_firebase.mp4)
+[▶ Assistir ao vídeo](https://youtu.be/AnZt_t2UeA0)
 
 ## Regras de segurança do banco
 
